@@ -7,6 +7,7 @@ public class TestGit {
 		//testando git fa
 		//fdafa
 		//vai dar merge
+		int value = 0;
 	}
 
 }
