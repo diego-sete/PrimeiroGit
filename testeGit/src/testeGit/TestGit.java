@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		//testando git fa
 		//fdafa
+		//vai dar merge
 	}
 
 }
