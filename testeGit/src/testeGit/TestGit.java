@@ -8,6 +8,9 @@ public class TestGit {
 		//fdafa
 		//vai dar merge
 		int value = 0;
+		
+		//teste merge
+		//123132132
 	}
 
 }
