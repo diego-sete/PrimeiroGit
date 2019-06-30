@@ -7,6 +7,9 @@ public class TestGit {
 		//testando git fa
 		//fdafa
 		int value = 0;
+		
+		int value1 = 0;
+		int value2 = 0;
 	}
 
 }
